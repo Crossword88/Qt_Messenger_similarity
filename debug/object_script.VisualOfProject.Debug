@@ -1,0 +1,10 @@
+debug/chatt.o
+debug/main.o
+debug/mainwindow.o
+debug/messages.o
+debug/qdynamicbutton.o
+debug/registration.o
+debug/moc_chatt.o
+debug/moc_mainwindow.o
+debug/moc_messages.o
+debug/moc_registration.o

@@ -1,0 +1,10 @@
+release/chatt.o
+release/main.o
+release/mainwindow.o
+release/messages.o
+release/qdynamicbutton.o
+release/registration.o
+release/moc_chatt.o
+release/moc_mainwindow.o
+release/moc_messages.o
+release/moc_registration.o
